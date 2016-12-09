@@ -17,7 +17,7 @@ myImage.onclick = function() {
 7 else (it will be the other image) change it to the original image
 */
 
-// var myButton = document.querySelector('button');
+var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
 
 function setUserName() {
